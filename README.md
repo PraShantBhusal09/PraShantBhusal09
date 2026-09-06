@@ -2,7 +2,7 @@
 <h3 align="center">Electronics & Communication Engineering Student | Digital Design & Embedded Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=RTL+Design+in+Verilog+HDL;Building+Processors+from+Scratch;FPGA+%7C+Embedded+Systems+%7C+PCB+Design;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=FPGA+%7C+Embedded+Systems+%7C+PCB+Design;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">

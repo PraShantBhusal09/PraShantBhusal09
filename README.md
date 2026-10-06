@@ -38,13 +38,13 @@
 ---
 
 ### 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🧮 [**RISC-V-Processor**](https://github.com/PraShantBhusal09/RISC-V-Processor) | 32-bit RV32I RISC-V processor designed from scratch in Verilog HDL |
-| 📊 [**FFT-8Point-DIT-Verilog**](https://github.com/PraShantBhusal09/FFT-8Point-DIT-Verilog) | 8-Point Radix-2 Decimation-in-Time FFT implemented in Verilog HDL using AMD Xilinx Vivado |
-| 💻 [**8-Bit-Processor**](https://github.com/PraShantBhusal09/8-Bit-Processor) | Modular 8-bit processor in Verilog HDL with simulation waveforms, testbenches, and hardware schematics |
-| 🩺 [**Sleep Apnea Monitoring System**](https://github.com/PraShantBhusal09/Sleep_Apnea_Monitoring_System-) | Wearable health-monitor system — ESP-based sensor firmware + a Python/Flask app that preprocesses data, trains an ML model, and serves predictions |
+| Project                                                                                                     | Description                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🧮 [**RISC-V-Processor**](https://github.com/PraShantBhusal09/RISC-V-Processor)                             | 32-bit RV32I RISC-V processor designed from scratch in Verilog HDL                                                                                 |
+| 📊 [**FFT-8Point-DIT-Verilog**](https://github.com/PraShantBhusal09/FFT-8Point-DIT-Verilog)                 | 8-Point Radix-2 Decimation-in-Time FFT implemented in Verilog HDL using AMD Xilinx Vivado                                                          |
+| 📐 [**CORDIC_ALGORITHM-using-verilog**](https://github.com/PraShantBhusal09/CORDIC_ALGORITHM-using-verilog) | CORDIC algorithm implemented in Verilog HDL for efficient hardware-based trigonometric computation                                                 |
+| 💻 [**8-Bit-Processor**](https://github.com/PraShantBhusal09/8-Bit-Processor)                               | Modular 8-bit processor in Verilog HDL with simulation waveforms, testbenches, and hardware schematics                                             |
+| 🩺 [**Sleep Apnea Monitoring System**](https://github.com/PraShantBhusal09/Sleep_Apnea_Monitoring_System-)  | Wearable health-monitor system — ESP-based sensor firmware + a Python/Flask app that preprocesses data, trains an ML model, and serves predictions |
 
 ---
 
